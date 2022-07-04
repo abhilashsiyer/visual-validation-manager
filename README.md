@@ -1,10 +1,5 @@
-# Asynchronous Tasks with Flask and Celery
+# Visual validation manager
 
-Example of how to handle background processes with Flask, Celery, and Docker.
-
-## Want to learn how to build this?
-
-Check out the [post](https://testdriven.io/blog/flask-and-celery/).
 
 ## Want to use this project?
 
