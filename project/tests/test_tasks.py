@@ -1,7 +1,7 @@
 import json
 from unittest.mock import patch, call
 
-from project.server.tasks import create_task
+from project.server.tasks import init_type
 
 
 def test_home(test_app):
@@ -11,21 +11,21 @@ def test_home(test_app):
 
 
 def test_task():
-    assert create_task.run(1)
-    assert create_task.run(2)
-    assert create_task.run(3)
+    assert init_type.run(1)
+    assert init_type.run(2)
+    assert init_type.run(3)
 
 
 @patch("project.server.tasks.create_task.run")
 def test_mock_task(mock_run):
-    assert create_task.run(1)
-    create_task.run.assert_called_once_with(1)
+    assert init_type.run(1)
+    init_type.run.assert_called_once_with(1)
 
-    assert create_task.run(2)
-    assert create_task.run.call_count == 2
+    assert init_type.run(2)
+    assert init_type.run.call_count == 2
 
-    assert create_task.run(3)
-    assert create_task.run.call_count == 3
+    assert init_type.run(3)
+    assert init_type.run.call_count == 3
 
 
 def test_task_status(test_app):

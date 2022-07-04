@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cdbd320-ad41-41a1-b4ab-448d7ed579d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/client/static/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/client/static/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/client/templates/_base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/client/templates/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/client/templates/main/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/logs/celery.log" beforeDir="false" afterPath="$PROJECT_DIR$/project/logs/celery.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/server/main/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/server/main/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/server/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/server/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/server/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/server/tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/tests/test_tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/tests/test_tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>

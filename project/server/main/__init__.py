@@ -2,7 +2,7 @@ import os
 
 from flask import Flask
 
-
+UPLOAD_FOLDER = 'uploads'
 def create_app(script_info=None):
 
     # instantiate the app
@@ -15,6 +15,7 @@ def create_app(script_info=None):
     # set config
     app_settings = os.getenv("APP_SETTINGS")
     app.config.from_object(app_settings)
+    app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
     # register blueprints
     from project.server.main.views import main_blueprint

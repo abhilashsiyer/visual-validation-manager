@@ -1,84 +1,399 @@
-[2022-02-16 21:01:09,961: INFO/MainProcess] Connected to redis://redis:6379/0
-[2022-02-16 21:01:09,965: INFO/MainProcess] mingle: searching for neighbors
-[2022-02-16 21:01:10,977: INFO/MainProcess] mingle: all alone
-[2022-02-16 21:01:10,994: INFO/MainProcess] celery@f9921f0e0b83 ready.
-[2022-02-16 21:01:23,349: INFO/MainProcess] Task create_task[ceb6cffc-e426-4970-a5df-5a1fac4478cc] received
-[2022-02-16 21:01:33,378: INFO/ForkPoolWorker-7] Task create_task[ceb6cffc-e426-4970-a5df-5a1fac4478cc] succeeded in 10.025073800003156s: True
-[2022-02-16 21:05:56,474: INFO/MainProcess] Connected to redis://redis:6379/0
-[2022-02-16 21:05:56,480: INFO/MainProcess] mingle: searching for neighbors
-[2022-02-16 21:05:57,496: INFO/MainProcess] mingle: all alone
-[2022-02-16 21:05:57,524: INFO/MainProcess] celery@ccd05c900b23 ready.
-[2022-02-16 21:08:15,587: INFO/MainProcess] Connected to redis://redis:6379/0
-[2022-02-16 21:08:15,591: INFO/MainProcess] mingle: searching for neighbors
-[2022-02-16 21:08:16,602: INFO/MainProcess] mingle: all alone
-[2022-02-16 21:08:16,619: INFO/MainProcess] celery@fd59f8fcf248 ready.
-[2022-02-16 21:08:21,102: INFO/MainProcess] Events of group {task} enabled by remote.
-[2022-02-16 21:09:17,007: INFO/MainProcess] Task create_task[63dd73eb-9eda-4fc7-8c04-dcf852c187ca] received
-[2022-02-16 21:09:18,598: INFO/MainProcess] Task create_task[1be3d2fe-dd51-42e4-b2e5-9d6fd9d511a8] received
-[2022-02-16 21:09:20,353: INFO/MainProcess] Task create_task[da68bdeb-d052-4149-8417-699740187498] received
-[2022-02-16 21:09:21,683: INFO/MainProcess] Task create_task[9e367cd1-81f6-4b6c-aab7-336b2eb42026] received
-[2022-02-16 21:09:22,367: INFO/MainProcess] Task create_task[ba55016e-8eb8-41b8-9c11-884b4ea71113] received
-[2022-02-16 21:09:23,023: INFO/MainProcess] Task create_task[55ee8b9d-bd28-477d-94f3-16539392cad0] received
-[2022-02-16 21:09:27,019: INFO/ForkPoolWorker-7] Task create_task[63dd73eb-9eda-4fc7-8c04-dcf852c187ca] succeeded in 10.007605899998453s: True
-[2022-02-16 21:09:31,702: INFO/ForkPoolWorker-2] Task create_task[9e367cd1-81f6-4b6c-aab7-336b2eb42026] succeeded in 10.01563239999814s: True
-[2022-02-16 21:09:32,389: INFO/ForkPoolWorker-3] Task create_task[ba55016e-8eb8-41b8-9c11-884b4ea71113] succeeded in 10.017498500004876s: True
-[2022-02-16 21:09:33,046: INFO/ForkPoolWorker-4] Task create_task[55ee8b9d-bd28-477d-94f3-16539392cad0] succeeded in 10.018922599963844s: True
-[2022-02-16 21:09:38,591: INFO/ForkPoolWorker-8] Task create_task[1be3d2fe-dd51-42e4-b2e5-9d6fd9d511a8] succeeded in 20.023398499994073s: True
-[2022-02-16 21:09:50,355: INFO/ForkPoolWorker-1] Task create_task[da68bdeb-d052-4149-8417-699740187498] succeeded in 30.032274500001222s: True
-[2022-02-16 21:10:02,365: INFO/MainProcess] Connected to redis://redis:6379/0
-[2022-02-16 21:10:02,370: INFO/MainProcess] mingle: searching for neighbors
-[2022-02-16 21:10:02,608: INFO/MainProcess] Connected to redis://redis:6379/0
-[2022-02-16 21:10:02,614: INFO/MainProcess] mingle: searching for neighbors
-[2022-02-16 21:10:02,613: INFO/MainProcess] Connected to redis://redis:6379/0
-[2022-02-16 21:10:02,619: INFO/MainProcess] mingle: searching for neighbors
-[2022-02-16 21:10:03,389: INFO/MainProcess] mingle: all alone
-[2022-02-16 21:10:03,406: INFO/MainProcess] celery@f4816d6c1e17 ready.
-[2022-02-16 21:10:03,626: INFO/MainProcess] mingle: all alone
-[2022-02-16 21:10:03,630: INFO/MainProcess] mingle: all alone
-[2022-02-16 21:10:03,644: INFO/MainProcess] celery@d061bc3bb074 ready.
-[2022-02-16 21:10:03,646: INFO/MainProcess] celery@d1c806a2199b ready.
-[2022-02-16 21:10:05,805: INFO/MainProcess] Task create_task[82ec16fb-6293-49b9-b7c9-6a1b560586dd] received
-[2022-02-16 21:10:06,582: INFO/MainProcess] Task create_task[4f33b939-e849-4354-9012-77d715e6eae4] received
-[2022-02-16 21:10:07,837: INFO/MainProcess] Task create_task[b3b2d236-a5d8-4427-880b-8db437a75feb] received
-[2022-02-16 21:10:08,080: INFO/MainProcess] Events of group {task} enabled by remote.
-[2022-02-16 21:10:08,080: INFO/MainProcess] Events of group {task} enabled by remote.
-[2022-02-16 21:10:08,080: INFO/MainProcess] Events of group {task} enabled by remote.
-[2022-02-16 21:10:10,526: INFO/MainProcess] Task create_task[00ec388c-ba20-47d2-9867-0724c7034c38] received
-[2022-02-16 21:10:11,609: INFO/MainProcess] Task create_task[d10baa54-d5b9-4de3-90a5-bac9f09f482e] received
-[2022-02-16 21:10:13,186: INFO/MainProcess] Task create_task[081fce78-9dec-44ca-a844-0e7a6d2dc298] received
-[2022-02-16 21:10:14,346: INFO/MainProcess] Task create_task[725b9225-819c-4f3c-9a00-6653e76637a4] received
-[2022-02-16 21:10:15,790: INFO/ForkPoolWorker-7] Task create_task[82ec16fb-6293-49b9-b7c9-6a1b560586dd] succeeded in 10.015644100029022s: True
-[2022-02-16 21:10:16,565: INFO/ForkPoolWorker-7] Task create_task[4f33b939-e849-4354-9012-77d715e6eae4] succeeded in 10.014254699985031s: True
-[2022-02-16 21:10:17,826: INFO/ForkPoolWorker-8] Task create_task[b3b2d236-a5d8-4427-880b-8db437a75feb] succeeded in 10.019260900036898s: True
-[2022-02-16 21:10:25,805: INFO/MainProcess] Task create_task[d8d27dc7-5af0-4b52-b178-99a4aa660718] received
-[2022-02-16 21:10:29,288: INFO/MainProcess] Task create_task[4a808dd4-d97e-49ef-b7b0-2185c0fab210] received
-[2022-02-16 21:10:30,561: INFO/ForkPoolWorker-8] Task create_task[00ec388c-ba20-47d2-9867-0724c7034c38] succeeded in 20.03153660002863s: True
-[2022-02-16 21:10:31,044: INFO/MainProcess] Task create_task[006f4446-f544-45d3-842f-5829a10ac502] received
-[2022-02-16 21:10:31,641: INFO/ForkPoolWorker-7] Task create_task[d10baa54-d5b9-4de3-90a5-bac9f09f482e] succeeded in 20.027840199996717s: True
-[2022-02-16 21:10:34,376: INFO/ForkPoolWorker-1] Task create_task[725b9225-819c-4f3c-9a00-6653e76637a4] succeeded in 20.026221800013445s: True
-[2022-02-16 21:10:35,824: INFO/ForkPoolWorker-7] Task create_task[d8d27dc7-5af0-4b52-b178-99a4aa660718] succeeded in 10.01432030001888s: True
-[2022-02-16 21:10:41,030: INFO/ForkPoolWorker-2] Task create_task[006f4446-f544-45d3-842f-5829a10ac502] succeeded in 10.017253800004255s: True
-[2022-02-16 21:10:43,183: INFO/ForkPoolWorker-8] Task create_task[081fce78-9dec-44ca-a844-0e7a6d2dc298] succeeded in 30.025924300018232s: True
-[2022-02-16 21:11:19,171: INFO/MainProcess] Connected to redis://redis:6379/0
-[2022-02-16 21:11:19,174: INFO/MainProcess] mingle: searching for neighbors
-[2022-02-16 21:11:20,187: INFO/MainProcess] mingle: all alone
-[2022-02-16 21:11:20,203: INFO/MainProcess] celery@896d86af2108 ready.
-[2022-02-16 21:11:24,671: INFO/MainProcess] Events of group {task} enabled by remote.
-[2022-02-16 21:14:10,145: INFO/MainProcess] Task create_task[4ecddb30-35c8-4399-9f14-8bd532ef74b7] received
-[2022-02-16 21:14:10,152: INFO/ForkPoolWorker-7] Task create_task[4ecddb30-35c8-4399-9f14-8bd532ef74b7] succeeded in 0.004089999943971634s: True
-[2022-02-16 21:15:22,495: INFO/MainProcess] Task create_task[bf4fb287-e4f2-424d-bbf8-da4a064c91b8] received
-[2022-02-16 21:15:22,499: INFO/ForkPoolWorker-7] Task create_task[bf4fb287-e4f2-424d-bbf8-da4a064c91b8] succeeded in 0.000928599969483912s: True
-[2022-02-16 21:27:34,065: INFO/MainProcess] Connected to redis://redis:6379/0
-[2022-02-16 21:27:34,071: INFO/MainProcess] mingle: searching for neighbors
-[2022-02-16 21:27:35,083: INFO/MainProcess] mingle: all alone
-[2022-02-16 21:27:35,099: INFO/MainProcess] celery@497fce8c9606 ready.
-[2022-02-16 21:27:39,514: INFO/MainProcess] Events of group {task} enabled by remote.
-[2022-02-16 21:28:20,282: INFO/MainProcess] Connected to redis://redis:6379/0
-[2022-02-16 21:28:20,286: INFO/MainProcess] mingle: searching for neighbors
-[2022-02-16 21:28:21,297: INFO/MainProcess] mingle: all alone
-[2022-02-16 21:28:21,313: INFO/MainProcess] celery@8374b135e841 ready.
-[2022-02-16 21:28:25,769: INFO/MainProcess] Events of group {task} enabled by remote.
-[2022-02-16 21:28:39,261: INFO/MainProcess] Task create_task[393545d9-fd90-49d9-8f9d-ed0ef4cd7aec] received
-[2022-02-16 21:28:49,280: INFO/ForkPoolWorker-7] Task create_task[393545d9-fd90-49d9-8f9d-ed0ef4cd7aec] succeeded in 10.01493579999078s: True
-[2022-02-16 21:29:26,493: INFO/MainProcess] Task create_task[d39c559e-0e3e-4de7-91dc-7f2ef898fa68] received
-[2022-02-16 21:29:26,498: INFO/ForkPoolWorker-7] Task create_task[d39c559e-0e3e-4de7-91dc-7f2ef898fa68] succeeded in 0.0014217999996617436s: True
+[2022-06-27 07:16:03,022: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-27 07:16:03,031: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-27 07:16:04,064: INFO/MainProcess] mingle: all alone
+[2022-06-27 07:16:04,097: INFO/MainProcess] celery@bfbb1cbb4146 ready.
+[2022-06-27 07:16:22,773: INFO/MainProcess] Task create_task[a8d124eb-db10-4d9b-ba9f-4a2c15e0f9a2] received
+[2022-06-27 07:16:22,809: INFO/ForkPoolWorker-1] Task create_task[a8d124eb-db10-4d9b-ba9f-4a2c15e0f9a2] succeeded in 0.026266863999978796s: False
+[2022-06-27 07:16:54,131: INFO/MainProcess] Task validate_image[1429026a-4c05-434f-a195-ef68b0f413f2] received
+[2022-06-27 07:16:55,132: WARNING/ForkPoolWorker-1] List files-
+[2022-06-27 07:16:55,136: WARNING/ForkPoolWorker-1]  
+[2022-06-27 07:16:55,142: WARNING/ForkPoolWorker-1]  
+[2022-06-27 07:16:55,146: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/qantas_base_zj3kxwZUC
+[2022-06-27 07:16:55,154: INFO/ForkPoolWorker-1] Task validate_image[1429026a-4c05-434f-a195-ef68b0f413f2] succeeded in 1.0048805259999654s: 'https://ik.imagekit.io/it41uxh5d/qantas_base_zj3kxwZUC'
+[2022-06-27 08:27:19,658: INFO/MainProcess] Task validate_image[d492cd8e-defa-4db3-9e3a-2b92c29ac376] received
+[2022-06-27 08:27:20,678: ERROR/ForkPoolWorker-1] Task validate_image[d492cd8e-defa-4db3-9e3a-2b92c29ac376] raised unexpected: IndexError('list index out of range')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 22, in visual_validation
+    fileURL = getFile(fileTag)
+  File "/usr/src/app/image_kit/getFile.py", line 11, in getFile
+    print("List files-", "\n", list_files['response'][0]['url'])
+IndexError: list index out of range
+[2022-06-27 08:28:51,719: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-27 08:28:51,728: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-27 08:28:52,757: INFO/MainProcess] mingle: all alone
+[2022-06-27 08:28:52,797: INFO/MainProcess] celery@38e0e758501f ready.
+[2022-06-27 08:30:33,966: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-27 08:30:33,976: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-27 08:30:35,014: INFO/MainProcess] mingle: all alone
+[2022-06-27 08:30:35,071: INFO/MainProcess] celery@afb80721ac59 ready.
+[2022-06-27 08:30:42,701: INFO/MainProcess] Task validate_image[cf220d35-0e57-4a2b-9f85-4a66f39efa04] received
+[2022-06-27 08:30:43,611: ERROR/ForkPoolWorker-1] Task validate_image[cf220d35-0e57-4a2b-9f85-4a66f39efa04] raised unexpected: IndexError('list index out of range')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 22, in visual_validation
+    fileURL = getFile(fileTag)
+  File "/usr/src/app/image_kit/getFile.py", line 11, in getFile
+    print("List files-", "\n", list_files['response'][0]['url'])
+IndexError: list index out of range
+[2022-06-27 08:34:12,954: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-27 08:34:12,961: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-27 08:34:13,987: INFO/MainProcess] mingle: all alone
+[2022-06-27 08:34:14,078: INFO/MainProcess] celery@5aaea31d724d ready.
+[2022-06-27 08:34:41,165: INFO/MainProcess] Task validate_image[eb7d05e0-3ed0-44ee-ae01-75a4f8e29581] received
+[2022-06-27 08:34:42,150: ERROR/ForkPoolWorker-1] Task validate_image[eb7d05e0-3ed0-44ee-ae01-75a4f8e29581] raised unexpected: IndexError('list index out of range')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 22, in visual_validation
+    fileURL = getFile(fileTag)
+  File "/usr/src/app/image_kit/getFile.py", line 11, in getFile
+    print("List files-", "\n", list_files['response'][0]['url'])
+IndexError: list index out of range
+[2022-06-27 08:35:59,110: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-27 08:35:59,119: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-27 08:36:00,147: INFO/MainProcess] mingle: all alone
+[2022-06-27 08:36:00,187: INFO/MainProcess] celery@25f13a7a4f63 ready.
+[2022-06-27 08:36:05,088: INFO/MainProcess] Task validate_image[69834457-0618-4091-b826-e896ef6930fd] received
+[2022-06-27 08:36:06,006: ERROR/ForkPoolWorker-1] Task validate_image[69834457-0618-4091-b826-e896ef6930fd] raised unexpected: IndexError('list index out of range')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 22, in visual_validation
+    fileURL = getFile(fileTag)
+  File "/usr/src/app/image_kit/getFile.py", line 11, in getFile
+    print("List files-", "\n", list_files['response'][0]['url'])
+IndexError: list index out of range
+[2022-06-27 08:37:38,503: INFO/MainProcess] Task validate_image[bb174454-8f89-45ad-94cc-df8c38966e0f] received
+[2022-06-27 08:37:40,100: WARNING/ForkPoolWorker-1] List files-
+[2022-06-27 08:37:40,104: WARNING/ForkPoolWorker-1]  
+[2022-06-27 08:37:40,110: WARNING/ForkPoolWorker-1]  
+[2022-06-27 08:37:40,114: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/qantas_base_QkMXgua26
+[2022-06-27 08:37:40,125: INFO/ForkPoolWorker-1] Task validate_image[bb174454-8f89-45ad-94cc-df8c38966e0f] succeeded in 1.6008254940006736s: 'https://ik.imagekit.io/it41uxh5d/qantas_base_QkMXgua26'
+[2022-06-27 08:38:07,184: INFO/MainProcess] Task validate_image[fc0f7c0d-f41b-49ba-9f74-4b4c51489035] received
+[2022-06-27 08:38:08,151: ERROR/ForkPoolWorker-1] Task validate_image[fc0f7c0d-f41b-49ba-9f74-4b4c51489035] raised unexpected: IndexError('list index out of range')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 22, in visual_validation
+    fileURL = getFile(fileTag)
+  File "/usr/src/app/image_kit/getFile.py", line 11, in getFile
+    print("List files-", "\n", list_files['response'][0]['url'])
+IndexError: list index out of range
+[2022-06-27 08:39:35,110: INFO/MainProcess] Task validate_image[bc3e4fe4-0cbe-4d26-a091-e644b067c23a] received
+[2022-06-27 08:39:36,130: WARNING/ForkPoolWorker-1] List files-
+[2022-06-27 08:39:36,134: WARNING/ForkPoolWorker-1]  
+[2022-06-27 08:39:36,137: WARNING/ForkPoolWorker-1]  
+[2022-06-27 08:39:36,139: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/qantas_base_QkMXgua26
+[2022-06-27 08:39:36,146: INFO/ForkPoolWorker-1] Task validate_image[bc3e4fe4-0cbe-4d26-a091-e644b067c23a] succeeded in 1.005148033000296s: 'https://ik.imagekit.io/it41uxh5d/qantas_base_QkMXgua26'
+[2022-06-27 08:51:06,778: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-27 08:51:06,787: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-27 08:51:07,810: INFO/MainProcess] mingle: all alone
+[2022-06-27 08:51:07,839: INFO/MainProcess] celery@5e2dccf47b10 ready.
+[2022-06-27 08:51:33,045: INFO/MainProcess] Task validate_image[14e502e6-be62-4b47-9128-192cd1330018] received
+[2022-06-27 08:51:34,045: WARNING/ForkPoolWorker-1] List files list-
+[2022-06-27 08:51:34,051: WARNING/ForkPoolWorker-1]  
+[2022-06-27 08:51:34,054: WARNING/ForkPoolWorker-1]  
+[2022-06-27 08:51:34,059: WARNING/ForkPoolWorker-1] []
+[2022-06-27 08:51:34,061: WARNING/ForkPoolWorker-1] Response length-
+[2022-06-27 08:51:34,063: WARNING/ForkPoolWorker-1]  
+[2022-06-27 08:51:34,067: WARNING/ForkPoolWorker-1]  
+[2022-06-27 08:51:34,069: WARNING/ForkPoolWorker-1] 0
+[2022-06-27 08:51:34,082: INFO/ForkPoolWorker-1] Task validate_image[14e502e6-be62-4b47-9128-192cd1330018] succeeded in 0.9722397420000561s: False
+[2022-06-29 07:59:54,325: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-29 07:59:54,358: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-29 07:59:55,392: INFO/MainProcess] mingle: all alone
+[2022-06-29 07:59:55,422: INFO/MainProcess] celery@d63afdad9284 ready.
+[2022-06-29 08:00:44,536: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-29 08:00:44,556: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-29 08:00:45,590: INFO/MainProcess] mingle: all alone
+[2022-06-29 08:00:45,622: INFO/MainProcess] celery@d24d9d643234 ready.
+[2022-06-29 08:04:26,363: INFO/MainProcess] Task validate_image[e64ff7d7-7b21-4ece-8f37-cb48ad6e0c83] received
+[2022-06-29 08:04:29,915: WARNING/ForkPoolWorker-1] Upload response
+[2022-06-29 08:04:29,920: WARNING/ForkPoolWorker-1]  
+[2022-06-29 08:04:29,923: WARNING/ForkPoolWorker-1] {'fileId': '62bc078c2a1a9f10e53aeff8', 'name': 'qantas_base_h4B5BGO5c', 'size': 28784, 'versionInfo': {'id': '62bc078c2a1a9f10e53aeff8', 'name': 'Version 1'}, 'filePath': '/qantas_base_h4B5BGO5c', 'url': 'https://ik.imagekit.io/it41uxh5d/qantas_base_h4B5BGO5c', 'fileType': 'image', 'height': 489, 'width': 308, 'thumbnailUrl': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/qantas_base_h4B5BGO5c', 'tags': ['tag-qantas_base'], 'AITags': None, 'isPrivateFile': False}
+[2022-06-29 08:04:29,947: ERROR/ForkPoolWorker-1] Task validate_image[e64ff7d7-7b21-4ece-8f37-cb48ad6e0c83] raised unexpected: RuntimeError('Working outside of application context.\n\nThis typically means that you attempted to use functionality that needed\nto interface with the current application object in some way. To solve\nthis, set up an application context with app.app_context().  See the\ndocumentation for more information.')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 31, in visual_validation
+    return jsonify({'message': 'File uploaded as base', "base_image_url": url, "validation_result": True})
+  File "/usr/local/lib/python3.10/site-packages/flask/json/__init__.py", line 349, in jsonify
+    if current_app.config["JSONIFY_PRETTYPRINT_REGULAR"] or current_app.debug:
+  File "/usr/local/lib/python3.10/site-packages/werkzeug/local.py", line 278, in __get__
+    obj = instance._get_current_object()
+  File "/usr/local/lib/python3.10/site-packages/werkzeug/local.py", line 407, in _get_current_object
+    return self.__local()  # type: ignore
+  File "/usr/local/lib/python3.10/site-packages/flask/globals.py", line 47, in _find_app
+    raise RuntimeError(_app_ctx_err_msg)
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+to interface with the current application object in some way. To solve
+this, set up an application context with app.app_context().  See the
+documentation for more information.
+[2022-06-30 04:09:50,847: INFO/MainProcess] Task validate_image[22e17133-a05e-471e-9158-3d9436b6e3bd] received
+[2022-06-30 04:09:54,600: WARNING/ForkPoolWorker-1] Upload response
+[2022-06-30 04:09:54,608: WARNING/ForkPoolWorker-1]  
+[2022-06-30 04:09:54,612: WARNING/ForkPoolWorker-1] {'fileId': '62bd2211d893eecc5c3b55a6', 'name': 'qantas_base_bLRPLyxsK', 'size': 28784, 'versionInfo': {'id': '62bd2211d893eecc5c3b55a6', 'name': 'Version 1'}, 'filePath': '/qantas_base_bLRPLyxsK', 'url': 'https://ik.imagekit.io/it41uxh5d/qantas_base_bLRPLyxsK', 'fileType': 'image', 'height': 489, 'width': 308, 'thumbnailUrl': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/qantas_base_bLRPLyxsK', 'tags': ['tag-qantas_base'], 'AITags': None, 'isPrivateFile': False}
+[2022-06-30 04:09:54,636: ERROR/ForkPoolWorker-1] Task validate_image[22e17133-a05e-471e-9158-3d9436b6e3bd] raised unexpected: RuntimeError('Working outside of application context.\n\nThis typically means that you attempted to use functionality that needed\nto interface with the current application object in some way. To solve\nthis, set up an application context with app.app_context().  See the\ndocumentation for more information.')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 31, in visual_validation
+    return jsonify({'message': 'File uploaded as base', "base_image_url": url, "validation_result": True})
+  File "/usr/local/lib/python3.10/site-packages/flask/json/__init__.py", line 349, in jsonify
+    if current_app.config["JSONIFY_PRETTYPRINT_REGULAR"] or current_app.debug:
+  File "/usr/local/lib/python3.10/site-packages/werkzeug/local.py", line 278, in __get__
+    obj = instance._get_current_object()
+  File "/usr/local/lib/python3.10/site-packages/werkzeug/local.py", line 407, in _get_current_object
+    return self.__local()  # type: ignore
+  File "/usr/local/lib/python3.10/site-packages/flask/globals.py", line 47, in _find_app
+    raise RuntimeError(_app_ctx_err_msg)
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+to interface with the current application object in some way. To solve
+this, set up an application context with app.app_context().  See the
+documentation for more information.
+[2022-06-30 04:18:19,005: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-30 04:18:19,017: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-30 04:18:20,046: INFO/MainProcess] mingle: all alone
+[2022-06-30 04:18:20,087: INFO/MainProcess] celery@95994c4101bf ready.
+[2022-06-30 04:18:28,028: INFO/MainProcess] Task validate_image[5071b07a-5061-4ee4-bd99-0fa5af3a7cfb] received
+[2022-06-30 04:18:28,992: ERROR/ForkPoolWorker-1] Task validate_image[5071b07a-5061-4ee4-bd99-0fa5af3a7cfb] raised unexpected: RuntimeError('Working outside of application context.\n\nThis typically means that you attempted to use functionality that needed\nto interface with the current application object in some way. To solve\nthis, set up an application context with app.app_context().  See the\ndocumentation for more information.')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 32, in visual_validation
+    return jsonify({'message': 'File uploaded as base', "base_image_url": "url", "validation_result": True})
+  File "/usr/local/lib/python3.10/site-packages/flask/json/__init__.py", line 349, in jsonify
+    if current_app.config["JSONIFY_PRETTYPRINT_REGULAR"] or current_app.debug:
+  File "/usr/local/lib/python3.10/site-packages/werkzeug/local.py", line 278, in __get__
+    obj = instance._get_current_object()
+  File "/usr/local/lib/python3.10/site-packages/werkzeug/local.py", line 407, in _get_current_object
+    return self.__local()  # type: ignore
+  File "/usr/local/lib/python3.10/site-packages/flask/globals.py", line 47, in _find_app
+    raise RuntimeError(_app_ctx_err_msg)
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+to interface with the current application object in some way. To solve
+this, set up an application context with app.app_context().  See the
+documentation for more information.
+[2022-06-30 06:14:11,230: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-30 06:14:11,248: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-30 06:14:12,282: INFO/MainProcess] mingle: all alone
+[2022-06-30 06:14:12,363: INFO/MainProcess] celery@bf4b1d80d8c3 ready.
+[2022-06-30 06:16:34,519: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-30 06:16:34,531: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-30 06:16:35,569: INFO/MainProcess] mingle: all alone
+[2022-06-30 06:16:35,634: INFO/MainProcess] celery@b43a820d55c0 ready.
+[2022-06-30 06:19:58,259: INFO/MainProcess] Task create_task[ce2a9fdd-4776-4089-9db7-076cceaad61b] received
+[2022-06-30 06:19:58,324: INFO/ForkPoolWorker-1] Task create_task[ce2a9fdd-4776-4089-9db7-076cceaad61b] succeeded in 0.029629113007104024s: False
+[2022-06-30 06:20:24,298: INFO/MainProcess] Task validate_image[f7da07a7-233f-49dd-929b-103cdbb51e60] received
+[2022-06-30 06:20:25,311: INFO/ForkPoolWorker-1] Task validate_image[f7da07a7-233f-49dd-929b-103cdbb51e60] succeeded in 0.997982412998681s: False
+[2022-06-30 06:23:54,127: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-30 06:23:54,135: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-30 06:23:55,176: INFO/MainProcess] mingle: all alone
+[2022-06-30 06:23:55,213: INFO/MainProcess] celery@253586ead9c3 ready.
+[2022-06-30 06:24:00,386: INFO/MainProcess] Task validate_image[f710a8b3-89b6-416e-8e3f-a429ca712501] received
+[2022-06-30 06:24:02,511: WARNING/ForkPoolWorker-1] response
+[2022-06-30 06:24:02,516: WARNING/ForkPoolWorker-1] []
+[2022-06-30 06:24:02,528: INFO/ForkPoolWorker-1] Task validate_image[f710a8b3-89b6-416e-8e3f-a429ca712501] succeeded in 2.13142227899516s: False
+[2022-06-30 06:26:01,381: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-30 06:26:01,396: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-30 06:26:02,418: INFO/MainProcess] mingle: all alone
+[2022-06-30 06:26:02,452: INFO/MainProcess] celery@4db7cbf637e6 ready.
+[2022-06-30 06:26:57,655: INFO/MainProcess] Task validate_image[49e09b39-4227-4f1a-8fbd-2bebce78e09f] received
+[2022-06-30 06:26:58,712: WARNING/ForkPoolWorker-1] response
+[2022-06-30 06:26:58,718: WARNING/ForkPoolWorker-1] []
+[2022-06-30 06:26:58,721: WARNING/ForkPoolWorker-1] existing_file_url
+[2022-06-30 06:26:58,726: WARNING/ForkPoolWorker-1] False
+[2022-06-30 06:26:58,745: INFO/ForkPoolWorker-1] Task validate_image[49e09b39-4227-4f1a-8fbd-2bebce78e09f] succeeded in 1.0337676359922625s: False
+[2022-06-30 06:30:49,013: INFO/MainProcess] Task validate_image[6bc2c590-40d7-4274-8270-c86c603ccb7a] received
+[2022-06-30 06:30:49,928: WARNING/ForkPoolWorker-1] response
+[2022-06-30 06:30:49,936: WARNING/ForkPoolWorker-1] []
+[2022-06-30 06:30:49,944: WARNING/ForkPoolWorker-1] existing_file_url
+[2022-06-30 06:30:49,950: WARNING/ForkPoolWorker-1] False
+[2022-06-30 06:30:49,959: INFO/ForkPoolWorker-1] Task validate_image[6bc2c590-40d7-4274-8270-c86c603ccb7a] succeeded in 0.9251509349996923s: False
+[2022-06-30 06:37:00,314: INFO/MainProcess] Task validate_image[8cccb699-e803-433b-af0c-1a9a4126d77a] received
+[2022-06-30 06:37:01,347: WARNING/ForkPoolWorker-1] response
+[2022-06-30 06:37:01,350: WARNING/ForkPoolWorker-1] []
+[2022-06-30 06:37:01,355: WARNING/ForkPoolWorker-1] existing_file_url
+[2022-06-30 06:37:01,358: WARNING/ForkPoolWorker-1] False
+[2022-06-30 06:37:01,364: INFO/ForkPoolWorker-1] Task validate_image[8cccb699-e803-433b-af0c-1a9a4126d77a] succeeded in 1.0106326220120536s: False
+[2022-06-30 06:38:21,306: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-30 06:38:21,317: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-30 06:38:22,346: INFO/MainProcess] mingle: all alone
+[2022-06-30 06:38:22,386: INFO/MainProcess] celery@b5c5c7180ed1 ready.
+[2022-06-30 06:38:57,683: INFO/MainProcess] Task validate_image[13298e7f-be9b-4018-a6d6-9f345c41680e] received
+[2022-06-30 06:38:57,704: WARNING/ForkPoolWorker-1] fileTag
+[2022-06-30 06:38:57,713: WARNING/ForkPoolWorker-1] qantas_base
+[2022-06-30 06:38:58,555: WARNING/ForkPoolWorker-1] response
+[2022-06-30 06:38:58,560: WARNING/ForkPoolWorker-1] [{'type': 'file', 'name': 'qantas_base_bLRPLyxsK', 'createdAt': '2022-06-30T04:09:53.336Z', 'updatedAt': '2022-06-30T04:09:53.973Z', 'fileId': '62bd2211d893eecc5c3b55a6', 'tags': ['tag-qantas_base'], 'AITags': None, 'versionInfo': {'id': '62bd2211d893eecc5c3b55a6', 'name': 'Version 1'}, 'embeddedMetadata': {'DateCreated': '2022-06-30T04:09:53.972Z', 'ImageWidth': 308, 'ImageHeight': 489, 'DateTimeCreated': '2022-06-30T04:09:53.973Z'}, 'customCoordinates': None, 'customMetadata': {}, 'isPrivateFile': False, 'url': 'https://ik.imagekit.io/it41uxh5d/qantas_base_bLRPLyxsK', 'thumbnail': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/qantas_base_bLRPLyxsK', 'fileType': 'image', 'filePath': '/qantas_base_bLRPLyxsK', 'height': 489, 'width': 308, 'size': 28784, 'hasAlpha': True, 'mime': 'image/png'}]
+[2022-06-30 06:38:58,563: WARNING/ForkPoolWorker-1] List files-
+[2022-06-30 06:38:58,568: WARNING/ForkPoolWorker-1]  
+[2022-06-30 06:38:58,571: WARNING/ForkPoolWorker-1]  
+[2022-06-30 06:38:58,573: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/qantas_base_bLRPLyxsK
+[2022-06-30 06:38:58,579: WARNING/ForkPoolWorker-1] existing_file_url
+[2022-06-30 06:38:58,584: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/qantas_base_bLRPLyxsK
+[2022-06-30 06:38:58,600: INFO/ForkPoolWorker-1] Task validate_image[13298e7f-be9b-4018-a6d6-9f345c41680e] succeeded in 0.8978157689998625s: True
+[2022-06-30 06:40:28,389: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-30 06:40:28,404: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-30 06:40:29,431: INFO/MainProcess] mingle: all alone
+[2022-06-30 06:40:29,463: INFO/MainProcess] celery@3e4d6357d0f6 ready.
+[2022-06-30 06:40:41,896: INFO/MainProcess] Task validate_image[0926af5e-dd96-42c6-bc70-004eb3d0b76c] received
+[2022-06-30 06:40:41,935: WARNING/ForkPoolWorker-1] fileTag
+[2022-06-30 06:40:41,940: WARNING/ForkPoolWorker-1] qantas_base_dup
+[2022-06-30 06:40:43,043: WARNING/ForkPoolWorker-1] response
+[2022-06-30 06:40:43,047: WARNING/ForkPoolWorker-1] []
+[2022-06-30 06:40:43,051: WARNING/ForkPoolWorker-1] existing_file_url
+[2022-06-30 06:40:43,053: WARNING/ForkPoolWorker-1] False
+[2022-06-30 06:40:45,196: WARNING/ForkPoolWorker-1] Upload response
+[2022-06-30 06:40:45,200: WARNING/ForkPoolWorker-1]  
+[2022-06-30 06:40:45,203: WARNING/ForkPoolWorker-1] {'fileId': '62bd456c2a1a9f89a53b9e2c', 'name': 'qantas_base_dup_lWAz0ok7-', 'size': 28784, 'versionInfo': {'id': '62bd456c2a1a9f89a53b9e2c', 'name': 'Version 1'}, 'filePath': '/qantas_base_dup_lWAz0ok7-', 'url': 'https://ik.imagekit.io/it41uxh5d/qantas_base_dup_lWAz0ok7-', 'fileType': 'image', 'height': 489, 'width': 308, 'thumbnailUrl': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/qantas_base_dup_lWAz0ok7-', 'tags': ['tag-qantas_base_dup'], 'AITags': None, 'isPrivateFile': False}
+[2022-06-30 06:40:45,216: ERROR/ForkPoolWorker-1] Task validate_image[0926af5e-dd96-42c6-bc70-004eb3d0b76c] raised unexpected: RuntimeError('Working outside of application context.\n\nThis typically means that you attempted to use functionality that needed\nto interface with the current application object in some way. To solve\nthis, set up an application context with app.app_context().  See the\ndocumentation for more information.')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 35, in visual_validation
+    return jsonify({'message': 'File uploaded as base', "base_image_url": url, "validation_result": True})
+  File "/usr/local/lib/python3.10/site-packages/flask/json/__init__.py", line 349, in jsonify
+    if current_app.config["JSONIFY_PRETTYPRINT_REGULAR"] or current_app.debug:
+  File "/usr/local/lib/python3.10/site-packages/werkzeug/local.py", line 278, in __get__
+    obj = instance._get_current_object()
+  File "/usr/local/lib/python3.10/site-packages/werkzeug/local.py", line 407, in _get_current_object
+    return self.__local()  # type: ignore
+  File "/usr/local/lib/python3.10/site-packages/flask/globals.py", line 47, in _find_app
+    raise RuntimeError(_app_ctx_err_msg)
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+to interface with the current application object in some way. To solve
+this, set up an application context with app.app_context().  See the
+documentation for more information.
+[2022-06-30 06:43:13,473: INFO/MainProcess] Task validate_image[3b142b36-00a0-42fe-bda5-34c78b6cb230] received
+[2022-06-30 06:43:13,511: WARNING/ForkPoolWorker-1] fileTag
+[2022-06-30 06:43:13,519: WARNING/ForkPoolWorker-1] qantas_base_dup
+[2022-06-30 06:43:14,450: WARNING/ForkPoolWorker-1] response
+[2022-06-30 06:43:14,453: WARNING/ForkPoolWorker-1] [{'type': 'file', 'name': 'qantas_base_dup_lWAz0ok7-', 'createdAt': '2022-06-30T06:40:44.099Z', 'updatedAt': '2022-06-30T06:40:44.512Z', 'fileId': '62bd456c2a1a9f89a53b9e2c', 'tags': ['tag-qantas_base_dup'], 'AITags': None, 'versionInfo': {'id': '62bd456c2a1a9f89a53b9e2c', 'name': 'Version 1'}, 'embeddedMetadata': {'DateCreated': '2022-06-30T06:40:44.511Z', 'ImageWidth': 308, 'ImageHeight': 489, 'DateTimeCreated': '2022-06-30T06:40:44.512Z'}, 'customCoordinates': None, 'customMetadata': {}, 'isPrivateFile': False, 'url': 'https://ik.imagekit.io/it41uxh5d/qantas_base_dup_lWAz0ok7-', 'thumbnail': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/qantas_base_dup_lWAz0ok7-', 'fileType': 'image', 'filePath': '/qantas_base_dup_lWAz0ok7-', 'height': 489, 'width': 308, 'size': 28784, 'hasAlpha': True, 'mime': 'image/png'}]
+[2022-06-30 06:43:14,459: WARNING/ForkPoolWorker-1] List files-
+[2022-06-30 06:43:14,462: WARNING/ForkPoolWorker-1]  
+[2022-06-30 06:43:14,467: WARNING/ForkPoolWorker-1]  
+[2022-06-30 06:43:14,470: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/qantas_base_dup_lWAz0ok7-
+[2022-06-30 06:43:14,476: WARNING/ForkPoolWorker-1] existing_file_url
+[2022-06-30 06:43:14,482: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/qantas_base_dup_lWAz0ok7-
+[2022-06-30 06:43:14,489: INFO/ForkPoolWorker-1] Task validate_image[3b142b36-00a0-42fe-bda5-34c78b6cb230] succeeded in 0.9780625860003056s: True
+[2022-06-30 06:45:18,209: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-30 06:45:18,245: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-30 06:45:19,300: INFO/MainProcess] mingle: all alone
+[2022-06-30 06:45:19,359: INFO/MainProcess] celery@abbfa538985f ready.
+[2022-06-30 06:45:33,214: INFO/MainProcess] Task validate_image[346598e9-33a8-4fc1-a44e-e5786139c241] received
+[2022-06-30 06:45:33,232: WARNING/ForkPoolWorker-1] fileTag
+[2022-06-30 06:45:33,257: WARNING/ForkPoolWorker-1] qantas_base_dup
+[2022-06-30 06:45:35,074: WARNING/ForkPoolWorker-1] response
+[2022-06-30 06:45:35,078: WARNING/ForkPoolWorker-1] []
+[2022-06-30 06:45:35,081: WARNING/ForkPoolWorker-1] existing_file_url
+[2022-06-30 06:45:35,083: WARNING/ForkPoolWorker-1] False
+[2022-06-30 06:45:37,539: WARNING/ForkPoolWorker-1] Upload response
+[2022-06-30 06:45:37,544: WARNING/ForkPoolWorker-1]  
+[2022-06-30 06:45:37,546: WARNING/ForkPoolWorker-1] {'fileId': '62bd469075a7a65a3915fc9d', 'name': 'qantas_base_dup_PCYbGwoBJ', 'size': 28784, 'versionInfo': {'id': '62bd469075a7a65a3915fc9d', 'name': 'Version 1'}, 'filePath': '/qantas_base_dup_PCYbGwoBJ', 'url': 'https://ik.imagekit.io/it41uxh5d/qantas_base_dup_PCYbGwoBJ', 'fileType': 'image', 'height': 489, 'width': 308, 'thumbnailUrl': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/qantas_base_dup_PCYbGwoBJ', 'tags': ['tag-qantas_base_dup'], 'AITags': None, 'isPrivateFile': False}
+[2022-06-30 06:45:37,557: INFO/ForkPoolWorker-1] Task validate_image[346598e9-33a8-4fc1-a44e-e5786139c241] succeeded in 4.327516352001112s: {'message': 'File uploaded as base', 'base_image_url': 'https://ik.imagekit.io/it41uxh5d/qantas_base_dup_PCYbGwoBJ', 'validation_result': True}
+[2022-06-30 06:46:48,926: INFO/MainProcess] Task validate_image[b32bdbe0-72d4-4378-a0f2-7dd5a8ba8524] received
+[2022-06-30 06:46:48,935: WARNING/ForkPoolWorker-1] fileTag
+[2022-06-30 06:46:48,946: WARNING/ForkPoolWorker-1] qantas_base_dup
+[2022-06-30 06:46:49,845: WARNING/ForkPoolWorker-1] response
+[2022-06-30 06:46:49,850: WARNING/ForkPoolWorker-1] [{'type': 'file', 'name': 'qantas_base_dup_PCYbGwoBJ', 'createdAt': '2022-06-30T06:45:36.429Z', 'updatedAt': '2022-06-30T06:45:36.839Z', 'fileId': '62bd469075a7a65a3915fc9d', 'tags': ['tag-qantas_base_dup'], 'AITags': None, 'versionInfo': {'id': '62bd469075a7a65a3915fc9d', 'name': 'Version 1'}, 'embeddedMetadata': {'DateCreated': '2022-06-30T06:45:36.839Z', 'ImageWidth': 308, 'ImageHeight': 489, 'DateTimeCreated': '2022-06-30T06:45:36.839Z'}, 'customCoordinates': None, 'customMetadata': {}, 'isPrivateFile': False, 'url': 'https://ik.imagekit.io/it41uxh5d/qantas_base_dup_PCYbGwoBJ', 'thumbnail': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/qantas_base_dup_PCYbGwoBJ', 'fileType': 'image', 'filePath': '/qantas_base_dup_PCYbGwoBJ', 'height': 489, 'width': 308, 'size': 28784, 'hasAlpha': True, 'mime': 'image/png'}]
+[2022-06-30 06:46:49,854: WARNING/ForkPoolWorker-1] List files-
+[2022-06-30 06:46:49,856: WARNING/ForkPoolWorker-1]  
+[2022-06-30 06:46:49,858: WARNING/ForkPoolWorker-1]  
+[2022-06-30 06:46:49,860: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/qantas_base_dup_PCYbGwoBJ
+[2022-06-30 06:46:49,862: WARNING/ForkPoolWorker-1] existing_file_url
+[2022-06-30 06:46:49,864: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/qantas_base_dup_PCYbGwoBJ
+[2022-06-30 06:46:49,872: INFO/ForkPoolWorker-1] Task validate_image[b32bdbe0-72d4-4378-a0f2-7dd5a8ba8524] succeeded in 0.937100476003252s: True
+[2022-06-30 09:25:28,078: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-30 09:25:28,099: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-30 09:25:29,142: INFO/MainProcess] mingle: all alone
+[2022-06-30 09:25:29,183: INFO/MainProcess] celery@ad35d93455bc ready.
+[2022-06-30 09:25:31,912: INFO/MainProcess] Task validate_image[f3b6a152-93ab-4582-98b5-b8114d0f6603] received
+[2022-06-30 09:25:31,921: WARNING/ForkPoolWorker-1] fileTag
+[2022-06-30 09:25:31,941: WARNING/ForkPoolWorker-1] qantas_base_dup
+[2022-06-30 09:25:33,143: WARNING/ForkPoolWorker-1] response
+[2022-06-30 09:25:33,147: WARNING/ForkPoolWorker-1] [{'type': 'file', 'name': 'qantas_base_dup_PCYbGwoBJ', 'createdAt': '2022-06-30T06:45:36.429Z', 'updatedAt': '2022-06-30T06:45:36.839Z', 'fileId': '62bd469075a7a65a3915fc9d', 'tags': ['tag-qantas_base_dup'], 'AITags': None, 'versionInfo': {'id': '62bd469075a7a65a3915fc9d', 'name': 'Version 1'}, 'embeddedMetadata': {'DateCreated': '2022-06-30T06:45:36.839Z', 'ImageWidth': 308, 'ImageHeight': 489, 'DateTimeCreated': '2022-06-30T06:45:36.839Z'}, 'customCoordinates': None, 'customMetadata': {}, 'isPrivateFile': False, 'url': 'https://ik.imagekit.io/it41uxh5d/qantas_base_dup_PCYbGwoBJ', 'thumbnail': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/qantas_base_dup_PCYbGwoBJ', 'fileType': 'image', 'filePath': '/qantas_base_dup_PCYbGwoBJ', 'height': 489, 'width': 308, 'size': 28784, 'hasAlpha': True, 'mime': 'image/png'}]
+[2022-06-30 09:25:33,150: WARNING/ForkPoolWorker-1] List files-
+[2022-06-30 09:25:33,155: WARNING/ForkPoolWorker-1]  
+[2022-06-30 09:25:33,159: WARNING/ForkPoolWorker-1]  
+[2022-06-30 09:25:33,162: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/qantas_base_dup_PCYbGwoBJ
+[2022-06-30 09:25:33,166: WARNING/ForkPoolWorker-1] existing_file_url
+[2022-06-30 09:25:33,170: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/qantas_base_dup_PCYbGwoBJ
+[2022-06-30 09:25:35,617: WARNING/ForkPoolWorker-1] Upload response
+[2022-06-30 09:25:35,629: WARNING/ForkPoolWorker-1]  
+[2022-06-30 09:25:35,632: WARNING/ForkPoolWorker-1] {'fileId': '62bd6c0e3eec2c0416d28333', 'name': 'to_compareqantas_base_dup_eZJwSAg7Y', 'size': 28784, 'versionInfo': {'id': '62bd6c0e3eec2c0416d28333', 'name': 'Version 1'}, 'filePath': '/to_compareqantas_base_dup_eZJwSAg7Y', 'url': 'https://ik.imagekit.io/it41uxh5d/to_compareqantas_base_dup_eZJwSAg7Y', 'fileType': 'image', 'height': 489, 'width': 308, 'thumbnailUrl': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/to_compareqantas_base_dup_eZJwSAg7Y', 'tags': ['tag-to_compareqantas_base_dup'], 'AITags': None, 'isPrivateFile': False}
+[2022-06-30 09:25:35,636: WARNING/ForkPoolWorker-1] image_to_compare_url
+[2022-06-30 09:25:35,640: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/to_compareqantas_base_dup_eZJwSAg7Y
+[2022-06-30 09:25:36,573: WARNING/ForkPoolWorker-1] SSIM: 1.0
+[2022-06-30 09:25:36,587: INFO/ForkPoolWorker-1] Task validate_image[f3b6a152-93ab-4582-98b5-b8114d0f6603] succeeded in 4.686155944989878s: {'message': 'Validation successful with base', 'validation_result': True, 'baseImage': 'https://ik.imagekit.io/it41uxh5d/qantas_base_dup_PCYbGwoBJ'}
+[2022-06-30 09:26:27,047: INFO/MainProcess] Task validate_image[53cba01a-494c-47c7-858e-909ec4f242f1] received
+[2022-06-30 09:26:27,063: WARNING/ForkPoolWorker-1] fileTag
+[2022-06-30 09:26:27,069: WARNING/ForkPoolWorker-1] qantas_base_dup
+[2022-06-30 09:26:27,941: WARNING/ForkPoolWorker-1] response
+[2022-06-30 09:26:27,945: WARNING/ForkPoolWorker-1] [{'type': 'file', 'name': 'qantas_base_dup_PCYbGwoBJ', 'createdAt': '2022-06-30T06:45:36.429Z', 'updatedAt': '2022-06-30T06:45:36.839Z', 'fileId': '62bd469075a7a65a3915fc9d', 'tags': ['tag-qantas_base_dup'], 'AITags': None, 'versionInfo': {'id': '62bd469075a7a65a3915fc9d', 'name': 'Version 1'}, 'embeddedMetadata': {'DateCreated': '2022-06-30T06:45:36.839Z', 'ImageWidth': 308, 'ImageHeight': 489, 'DateTimeCreated': '2022-06-30T06:45:36.839Z'}, 'customCoordinates': None, 'customMetadata': {}, 'isPrivateFile': False, 'url': 'https://ik.imagekit.io/it41uxh5d/qantas_base_dup_PCYbGwoBJ', 'thumbnail': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/qantas_base_dup_PCYbGwoBJ', 'fileType': 'image', 'filePath': '/qantas_base_dup_PCYbGwoBJ', 'height': 489, 'width': 308, 'size': 28784, 'hasAlpha': True, 'mime': 'image/png'}]
+[2022-06-30 09:26:27,948: WARNING/ForkPoolWorker-1] List files-
+[2022-06-30 09:26:27,951: WARNING/ForkPoolWorker-1]  
+[2022-06-30 09:26:27,953: WARNING/ForkPoolWorker-1]  
+[2022-06-30 09:26:27,956: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/qantas_base_dup_PCYbGwoBJ
+[2022-06-30 09:26:27,958: WARNING/ForkPoolWorker-1] existing_file_url
+[2022-06-30 09:26:27,961: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/qantas_base_dup_PCYbGwoBJ
+[2022-06-30 09:26:30,096: WARNING/ForkPoolWorker-1] Upload response
+[2022-06-30 09:26:30,101: WARNING/ForkPoolWorker-1]  
+[2022-06-30 09:26:30,105: WARNING/ForkPoolWorker-1] {'fileId': '62bd6c45175aafbf17934ad5', 'name': 'to_compareqantas_base_dup_5eF6PDSwB', 'size': 29057, 'versionInfo': {'id': '62bd6c45175aafbf17934ad5', 'name': 'Version 1'}, 'filePath': '/to_compareqantas_base_dup_5eF6PDSwB', 'url': 'https://ik.imagekit.io/it41uxh5d/to_compareqantas_base_dup_5eF6PDSwB', 'fileType': 'image', 'height': 489, 'width': 308, 'thumbnailUrl': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/to_compareqantas_base_dup_5eF6PDSwB', 'tags': ['tag-to_compareqantas_base_dup'], 'AITags': None, 'isPrivateFile': False}
+[2022-06-30 09:26:30,108: WARNING/ForkPoolWorker-1] image_to_compare_url
+[2022-06-30 09:26:30,110: WARNING/ForkPoolWorker-1] https://ik.imagekit.io/it41uxh5d/to_compareqantas_base_dup_5eF6PDSwB
+[2022-06-30 09:26:30,502: WARNING/ForkPoolWorker-1] SSIM: 0.990641661366712
+[2022-06-30 09:26:32,675: WARNING/ForkPoolWorker-1] Upload response
+[2022-06-30 09:26:32,679: WARNING/ForkPoolWorker-1]  
+[2022-06-30 09:26:32,683: WARNING/ForkPoolWorker-1] {'fileId': '62bd6c47c9001060ec0cf340', 'name': 'diff-b98c069e-f856-11ec-8acf-0242ac130004_kySLKkSre', 'size': 50625, 'versionInfo': {'id': '62bd6c47c9001060ec0cf340', 'name': 'Version 1'}, 'filePath': '/diff-b98c069e-f856-11ec-8acf-0242ac130004_kySLKkSre', 'url': 'https://ik.imagekit.io/it41uxh5d/diff-b98c069e-f856-11ec-8acf-0242ac130004_kySLKkSre', 'fileType': 'image', 'height': 489, 'width': 308, 'thumbnailUrl': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/diff-b98c069e-f856-11ec-8acf-0242ac130004_kySLKkSre', 'tags': ['tag-diff-b98c069e-f856-11ec-8acf-0242ac130004'], 'AITags': None, 'isPrivateFile': False}
+[2022-06-30 09:26:32,695: INFO/ForkPoolWorker-1] Task validate_image[53cba01a-494c-47c7-858e-909ec4f242f1] succeeded in 5.653867061002529s: {'message': 'Validation failed with base', 'validationResult': False, 'imageDiffResult': 'https://ik.imagekit.io/it41uxh5d/diff-b98c069e-f856-11ec-8acf-0242ac130004_kySLKkSre', 'baseImage': 'https://ik.imagekit.io/it41uxh5d/qantas_base_dup_PCYbGwoBJ'}
+[2022-07-01 09:30:24,549: INFO/MainProcess] Task validate_image[8c4895b5-9936-4887-976f-76ca4363ebf8] received
+[2022-07-01 09:30:26,061: WARNING/ForkPoolWorker-1] fileTag
+[2022-07-01 09:30:26,218: WARNING/ForkPoolWorker-1] homePage
+[2022-07-01 09:30:30,691: WARNING/ForkPoolWorker-1] response
+[2022-07-01 09:30:30,701: WARNING/ForkPoolWorker-1] []
+[2022-07-01 09:30:30,706: WARNING/ForkPoolWorker-1] existing_file_url
+[2022-07-01 09:30:30,712: WARNING/ForkPoolWorker-1] False
+[2022-07-01 09:30:33,173: WARNING/ForkPoolWorker-1] Upload response
+[2022-07-01 09:30:33,182: WARNING/ForkPoolWorker-1]  
+[2022-07-01 09:30:33,186: WARNING/ForkPoolWorker-1] {'fileId': '62bebeb8c900102dd60d6050', 'name': 'homePage_dIDxi5Sby', 'size': 58, 'versionInfo': {'id': '62bebeb8c900102dd60d6050', 'name': 'Version 1'}, 'filePath': '/homePage_dIDxi5Sby', 'url': 'https://ik.imagekit.io/it41uxh5d/homePage_dIDxi5Sby', 'fileType': 'non-image', 'tags': ['tag-homePage'], 'AITags': None, 'isPrivateFile': False}
+[2022-07-01 09:30:33,383: INFO/ForkPoolWorker-1] Task validate_image[8c4895b5-9936-4887-976f-76ca4363ebf8] succeeded in 7.505916993017308s: {'message': 'File uploaded as base', 'base_image_url': 'https://ik.imagekit.io/it41uxh5d/homePage_dIDxi5Sby', 'validation_result': True}
+[2022-07-01 09:46:48,137: INFO/MainProcess] Task validate_image[53199689-f969-4bca-8d8c-aba16f7e2f34] received
+[2022-07-01 09:46:48,212: WARNING/ForkPoolWorker-1] fileTag
+[2022-07-01 09:46:48,221: WARNING/ForkPoolWorker-1] homePage
+[2022-07-01 09:46:49,311: WARNING/ForkPoolWorker-1] response
+[2022-07-01 09:46:49,314: WARNING/ForkPoolWorker-1] []
+[2022-07-01 09:46:49,319: WARNING/ForkPoolWorker-1] existing_file_url
+[2022-07-01 09:46:49,322: WARNING/ForkPoolWorker-1] False
+[2022-07-01 09:46:51,791: WARNING/ForkPoolWorker-1] Upload response
+[2022-07-01 09:46:51,798: WARNING/ForkPoolWorker-1]  
+[2022-07-01 09:46:51,802: WARNING/ForkPoolWorker-1] {'fileId': '62bec28a175aafc2ea93ba3b', 'name': 'homePage_pMNTRdzLX', 'size': 35200, 'versionInfo': {'id': '62bec28a175aafc2ea93ba3b', 'name': 'Version 1'}, 'filePath': '/homePage_pMNTRdzLX', 'url': 'https://ik.imagekit.io/it41uxh5d/homePage_pMNTRdzLX', 'fileType': 'image', 'height': 2280, 'width': 1080, 'thumbnailUrl': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/homePage_pMNTRdzLX', 'tags': ['tag-homePage'], 'AITags': None, 'isPrivateFile': False}
+[2022-07-01 09:46:51,834: INFO/ForkPoolWorker-1] Task validate_image[53199689-f969-4bca-8d8c-aba16f7e2f34] succeeded in 3.629377718985779s: {'message': 'File uploaded as base', 'base_image_url': 'https://ik.imagekit.io/it41uxh5d/homePage_pMNTRdzLX', 'validation_result': True}
