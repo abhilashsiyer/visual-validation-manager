@@ -397,3 +397,7 @@ documentation for more information.
 [2022-07-01 09:46:51,798: WARNING/ForkPoolWorker-1]  
 [2022-07-01 09:46:51,802: WARNING/ForkPoolWorker-1] {'fileId': '62bec28a175aafc2ea93ba3b', 'name': 'homePage_pMNTRdzLX', 'size': 35200, 'versionInfo': {'id': '62bec28a175aafc2ea93ba3b', 'name': 'Version 1'}, 'filePath': '/homePage_pMNTRdzLX', 'url': 'https://ik.imagekit.io/it41uxh5d/homePage_pMNTRdzLX', 'fileType': 'image', 'height': 2280, 'width': 1080, 'thumbnailUrl': 'https://ik.imagekit.io/it41uxh5d/tr:n-ik_ml_thumbnail/homePage_pMNTRdzLX', 'tags': ['tag-homePage'], 'AITags': None, 'isPrivateFile': False}
 [2022-07-01 09:46:51,834: INFO/ForkPoolWorker-1] Task validate_image[53199689-f969-4bca-8d8c-aba16f7e2f34] succeeded in 3.629377718985779s: {'message': 'File uploaded as base', 'base_image_url': 'https://ik.imagekit.io/it41uxh5d/homePage_pMNTRdzLX', 'validation_result': True}
+[2022-07-04 12:21:58,931: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-04 12:21:58,978: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-04 12:22:00,095: INFO/MainProcess] mingle: all alone
+[2022-07-04 12:22:00,159: INFO/MainProcess] celery@be000ae1d687 ready.
