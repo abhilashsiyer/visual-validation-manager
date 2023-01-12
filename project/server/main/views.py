@@ -36,11 +36,11 @@ def upload_file_for_validation():
         return resp
     if file and allowed_file(file.filename):
         filename = secure_filename(file.filename)
-        current_dir = os.getcwd();
-        print("current_dir", current_dir);
-        file_path = os.path.join("uploads", filename)
-
-        file.save(os.path.join(current_dir + "/uploads", filename))
+        current_dir = os.getcwd()
+        print("current_dir", current_dir)
+        file_path = os.path.join(current_dir + "/uploads", filename)
+        print("file_path", file_path)
+        file.save(file_path)
         task = visual_validation.delay(file_tag,file_path)
         resp = jsonify({'message': 'File received for processing', "task_id": task.id})
         resp.status_code = 202
